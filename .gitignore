@@ -1,2 +1,3 @@
-/hello
-/hello.o
+.DS_Store
+*.o
+*.out
